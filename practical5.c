@@ -1,7 +1,7 @@
 /*
 programmer:-Shreeja Vaishnani
 date of programme:-26 July 2024
-aim:-convert celsius t fahrenheit
+aim:-convert celsius to fahrenheit
 */
 
 #include<stdio.h>
