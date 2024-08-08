@@ -7,14 +7,12 @@ aim:-multiplication table
 #include<stdio.h>
 void main()
 {
-    int row,column,x,y;
-    printf("give number of column");
-    scanf("%d",&column);
-    printf("give number of row");
-    scnf("%d",&row);
-    for(x=1;x<=row;x++)
+    int n,x,y;
+    printf("give value  n");
+    scanf("%d",&n);
+    for(x=1;x<=n;x++)
     {
-        for(y=1;y<=column;y++)
+        for(y=1;y<=x;y++)
         {
             if(y%2==0)
             {
@@ -24,7 +22,8 @@ void main()
             {
                 printf(" 1 ");
             }
-            printf("\n");
         }
+printf("\n");
     }
+
 }
