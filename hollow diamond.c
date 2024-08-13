@@ -1,7 +1,7 @@
 /*
 programmer:-shreeja vaishnani
 date of program:-25 July 2024
-aim:-Hollow Diamond
+aim:-diamond pattern
 */
 
 #include<stdio.h>
